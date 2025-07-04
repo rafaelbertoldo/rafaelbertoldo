@@ -27,9 +27,9 @@ Trabalho com criação de casos de teste baseados em critérios de aceitação, 
 
 ## 📚 Formação
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas (conclusão em 2025)  
+🎓 Análise e Desenvolvimento de Sistemas (conclusão em 2025)  
 🎓 QA Engineer Program – Mate Academy  
-🎓 Curso Guardião da Qualidade – Escola Testing  
+🎓 Curso Guardião da Qualidade – Lumestack  
 
 ---
 
